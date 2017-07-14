@@ -18,3 +18,4 @@ Here is a list of non-textbook related sources for different subjects in compute
 |:-:|:-----:|:-------:|:---------:|
 |1|[Visualization the Turing Tarpit](http://blog.theincredibleholk.org/TarpitGazer/jot-visualization.pdf)|`Eric Holk`,`Jason Hemann`|`2013`|
 |2|[Lambda Calculus with Types](http://ttic.uchicago.edu/~dreyer/course/papers/barendregt.pdf)|**Henk Barendregt**|`1991`|
+|3|[Lambda-Definability in the Full Type Hierachy](http://homepages.inf.ed.ac.uk/gdp/publications/Lambda_Definability.pdf)|**Gordorn D. Plotkin**|`1978`|
