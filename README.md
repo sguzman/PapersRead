@@ -12,3 +12,9 @@ Here is a list of non-textbook related sources for different subjects in compute
 |1|[Elm: Concurrent FRP for Functional GUIs](http://elm-lang.org/assets/papers/concurrent-frp.pdf)|**Evan Czaplicki**|`2012`|
 |2|[Computing Machinery and Intelligence](http://www.turingarchive.org/browse.php/B/9)|**Alan Turing**|`1950`|
 |3|[On the building blocks of mathematical logic](https://courses.engr.illinois.edu/cs522/sp2016/OnTheBuildingBlocksOfMathematicalLogic.pdf)|**Moses Schonfinkel**|`1924`|
+
+#### To Read
+| # | Title | Year | Author |
+|:-:|:-----:|:-------:|:---------:|
+|1|[Visualization the Turing Tarpit](http://blog.theincredibleholk.org/TarpitGazer/jot-visualization.pdf)|`Eric Holk`,`Jason Hemann`|`2013`|
+|2|[Lambda Calculus with Types](http://ttic.uchicago.edu/~dreyer/course/papers/barendregt.pdf)|**Henk Barendregt**|`1991`|
